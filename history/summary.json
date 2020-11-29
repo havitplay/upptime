@@ -1,10 +1,10 @@
 [
   {
     "name": "Chai's Play",
-    "url": "https://www.chaisplay.com",
+    "url": "http://api.chaisplay.com/health",
     "slug": "chai-s-play",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1138
+    "time": 913
   }
 ]
