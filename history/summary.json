@@ -2,6 +2,7 @@
   {
     "name": "Chai's Play",
     "url": "http://api.chaisplay.com/health",
+    "icon": "https://favicons.githubusercontent.com/api.chaisplay.com",
     "slug": "chai-s-play",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 436,
-    "timeWeek": 686,
-    "timeMonth": 730,
-    "timeYear": 730
+    "time": 718,
+    "timeDay": 589,
+    "timeWeek": 705,
+    "timeMonth": 718,
+    "timeYear": 718,
+    "dailyMinutesDown": {}
   }
 ]
