@@ -4,17 +4,17 @@
     "url": "http://api.chaisplay.com/health",
     "icon": "https://favicons.githubusercontent.com/api.chaisplay.com",
     "slug": "chai-s-play",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 1215,
-    "timeWeek": 998,
-    "timeMonth": 898,
-    "timeYear": 761,
+    "time": 759,
+    "timeDay": 858,
+    "timeWeek": 936,
+    "timeMonth": 885,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   }
 ]
