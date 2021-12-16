@@ -4,7 +4,7 @@
     "url": "http://api.chaisplay.com/health",
     "icon": "https://favicons.githubusercontent.com/api.chaisplay.com",
     "slug": "chai-s-play",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 703,
     "timeMonth": 594,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-16": 0
+    }
   }
 ]
