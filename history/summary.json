@@ -6,15 +6,15 @@
     "slug": "chai-s-play",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 656,
-    "timeDay": 387,
-    "timeWeek": 522,
-    "timeMonth": 554,
-    "timeYear": 635,
+    "timeDay": 450,
+    "timeWeek": 436,
+    "timeMonth": 532,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2022-08-17": 16
     }
