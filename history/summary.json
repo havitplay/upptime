@@ -4,7 +4,7 @@
     "url": "http://api.chaisplay.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.chaisplay.com.ico",
     "slug": "chai-s-play",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "97.22%",
     "uptimeWeek": "99.60%",
