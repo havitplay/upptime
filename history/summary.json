@@ -4,19 +4,19 @@
     "url": "http://api.chaisplay.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.chaisplay.com.ico",
     "slug": "chai-s-play",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 608,
-    "timeDay": 6340,
-    "timeWeek": 3104,
-    "timeMonth": 1447,
-    "timeYear": 637,
+    "time": 657,
+    "timeDay": 9387,
+    "timeWeek": 4897,
+    "timeMonth": 2149,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2025-03-03": 40
+      "2025-03-03": 45
     }
   }
 ]
