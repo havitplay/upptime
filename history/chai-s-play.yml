@@ -1,7 +1,7 @@
 url: http://api.chaisplay.com/health
-status: down
-code: 502
-responseTime: 1238
-lastUpdated: 2025-03-03T10:15:42.491Z
+status: up
+code: 200
+responseTime: 28041
+lastUpdated: 2025-03-03T10:55:43.317Z
 startTime: 2020-11-28T13:17:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
